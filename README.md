@@ -5,6 +5,8 @@ Inteligen HCM is a global HR and talent management solution that covers your org
 
 We have designed our human resource packages in such a way, it would help you in your business growth. For this system all you need is you should be connected to the internet. It has covered all modules so that an HR would manage all the records without getting bogged down. Our Inteligen HCM will helpful in increasing the productivity of the organization and decision making. Going from manual to automated system would definitely increase the output and less paper work. Inteligen HCM handles all more than basic functions related to HR department suitable for small, medium and large scale companies. It can be customized it according to your company requirements.
 
+<img src="https://www.aspscriptsonline.com/wp-content/uploads/2016/12/InteligenHCM_2.jpg">
+
 <b>Objective:</b>
 
 <ul>
