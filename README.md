@@ -5,7 +5,7 @@ Inteligen HCM is a global HR and talent management solution that covers your org
 
 We have designed our human resource packages in such a way, it would help you in your business growth. For this system all you need is you should be connected to the internet. It has covered all modules so that an HR would manage all the records without getting bogged down. Our Inteligen HCM will helpful in increasing the productivity of the organization and decision making. Going from manual to automated system would definitely increase the output and less paper work. Inteligen HCM handles all more than basic functions related to HR department suitable for small, medium and large scale companies. It can be customized it according to your company requirements.
 
-<img src="https://www.aspscriptsonline.com/wp-content/uploads/2016/12/InteligenHCM_2.jpg">
+<img src="https://www.aspscriptsonline.com/frontend/assets/templates/1738348170_659b5d2a20f85fbfea92.webp">
 
 <b>Objective:</b>
 
@@ -119,5 +119,15 @@ Recruitment process includes hire to retire process. It is also one of the tedio
 
 The circular module is useful for publishing organization’s own custom-made circular to rotate amongst your fellow colleagues internally. Employees would easily view circulars on their personalized dashboard.
 
-<b>More details and download link:</b><br>
-<b>https://www.aspscriptsonline.com/product/inteligen-hcm/</b>
+
+More details and download script
+https://www.aspscriptsonline.com/product/asp.net-hrms-software
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
